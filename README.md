@@ -10,3 +10,4 @@ The Application has the following features:
  4. Upon clicking a list item, the item expands and show some random details about that user.
  5. All profile cards have a cross button.Clicking on the cross button deletes them from the view using useState hook.
 "# LawBot-Final-Website" 
+"# LawBot-Final-Website" 
