@@ -2,7 +2,7 @@
 
 "# Week2-Lawbot-Website-React" 
 
-The Application has the following feautures:
+The Application has the following features:
 
  1. Make a request to this API https://randomuser.me/ and get at least 10 unique random people. 
  2. Display these people in form of a list just as you would see in Facebook friend suggestions. 
