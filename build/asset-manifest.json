@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/%7BWeek2-Lawbot-Website-React%7D/static/css/main.31159f46.css",
+    "main.js": "/%7BWeek2-Lawbot-Website-React%7D/static/js/main.31772115.js",
+    "static/js/787.eb5f6390.chunk.js": "/%7BWeek2-Lawbot-Website-React%7D/static/js/787.eb5f6390.chunk.js",
+    "static/media/bg8.jpg": "/%7BWeek2-Lawbot-Website-React%7D/static/media/bg8.6b384bf10cae9c4b3165.jpg",
+    "static/media/lawbot.jpg": "/%7BWeek2-Lawbot-Website-React%7D/static/media/lawbot.51f30c773d2ad91a64ee.jpg",
+    "index.html": "/%7BWeek2-Lawbot-Website-React%7D/index.html",
+    "main.31159f46.css.map": "/%7BWeek2-Lawbot-Website-React%7D/static/css/main.31159f46.css.map",
+    "main.31772115.js.map": "/%7BWeek2-Lawbot-Website-React%7D/static/js/main.31772115.js.map",
+    "787.eb5f6390.chunk.js.map": "/%7BWeek2-Lawbot-Website-React%7D/static/js/787.eb5f6390.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31159f46.css",
+    "static/js/main.31772115.js"
+  ]
+}
